@@ -1,0 +1,5 @@
+project: jacob-clemente/semblance
+target: dump
+
+cmds:
+  - cmd: /dump @@
