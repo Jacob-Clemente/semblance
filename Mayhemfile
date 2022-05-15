@@ -1,4 +1,4 @@
-project: jacob-clemente/semblance
+project: semblance
 target: dump
 
 cmds:
